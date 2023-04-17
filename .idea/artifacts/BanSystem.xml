@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BanSystem">
+    <output-path>$PROJECT_DIR$/../../../../Server/Proxy/proxy/plugins</output-path>
+    <root id="archive" name="BanSystem.jar">
+      <element id="module-output" name="BanSystem" />
+      <element id="file-copy" path="$PROJECT_DIR$/bungee.yml" />
+    </root>
+  </artifact>
+</component>
