@@ -1,4 +1,4 @@
-name: HWOrganisation
+name: HWBackend
 version: 1.0
 author: Christoph
-main: de.christoph.ban.BanSystem
+main: de.christoph.backend.HWBackend
