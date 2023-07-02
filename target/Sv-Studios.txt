@@ -1,0 +1,59 @@
+1. Sv-Studios.de vereint Softwareentwicklung, Filmproduktionen und Textilherstellung, um innovative Lösungen in den Bereichen Technologie, Kunst und Mode anzubieten.
+
+2. Die Development-Abteilung von Sv-Studio.de liefert innovative Softwarelösungen und maßgeschneiderte Anwendungen für verschiedene Branchen
+
+3. Die Textilabteilung von Sv-Studio.de steht für erstklassige Qualität und einzigartiges Design. Ein erfahrenes Team von Experten arbeitet hier daran, hochwertige Textilien herzustellen.
+
+4. Die Produktionsabteilung von Sv-Studio.de zeichnet sich durch ihr engagiertes Team von Fachleuten aus, die mit Leidenschaft außergewöhnliche Filme und Videos kreieren.
+
+5. Überzeugen Sie sich selbst von unseren Qualitäten und erstellen Sie noch heute Ihren ersten Auftrag für Sv-Studio.de
+
+
+--- Projekte ---
+
+Development:
+	- Lizenz System | Comming Soon
+		Arbeiter (1)
+		Mit unserem Linzenz System können Sie Ihre Software mit Lizenzen anbieten
+	
+	- Creator Shop
+		Arbeiter (1)
+		Unser Creator-Shop ermöglicht es unseren Kunden, Ihre Produkte anzubieten
+	
+	- HeroWars
+		Arbeiter (5+)
+		Unser Minecraft Server HeroWars bietet verschiedene Superhelden-Spielmodi an. Besuche ihn jetzt kostenlos!
+
+		
+Production:
+	- Street Defender
+		Arbeiter (10+)
+		Hier vllt. kurze Handlung etc.
+
+Textilien:
+	- Shop
+		Arbeiter (1)
+		In unserem Shop für Klamotten, können Sie hochwertige Produkte für günstige Preise erwerben.
+
+
+
+--- Team ---
+1. Das Team von Sv-Studios.de besteht aus einer vielfältigen Gruppe von talentierten Fachleuten, die mit Leidenschaft und Engagement gemeinsam an innovativen Projekten arbeiten. Jedes Teammitglied bringt einzigartige Fähigkeiten und Erfahrungen mit, die es ermöglichen, herausragende Ergebnisse zu erzielen.
+
+
+--- Kundenzufriedenheiten ---
+1. Sv-Studios.de hat schon viele zufriedenen Kunden
+
+Kunde 1: Thomas Köl: "Mit Sv-Studios konnte ich meinem Kiosk durch eine professionelle Website aufwerten!"
+Kunde 2: Kilian Richter: "Meine Klasse konnte bei Sv-Studios problemlos T-Shirts für unseren Abschluss designen!"
+Kunde 3: Benny B. : "Die Missionen auf HeroWars machen sehr viel Spaß und das Level System ist einzigartig!"
+
+
+--- Menu (Vorschlag) ---
+- Home
+- Projekte
+- Team
+- Kundenzufriedenheit
+
+
+		
